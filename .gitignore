@@ -1,0 +1,38 @@
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code workspace
+.vscode/
+
+# Debug/Release folders
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Others
+*.log
+*.tmp
+*.cache
+*.pdb
+*.dbmdl
+*.db
+*.zip
+
+# Rider/JetBrains
+.idea/
