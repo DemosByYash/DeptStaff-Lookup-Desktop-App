@@ -1,6 +1,9 @@
 Tech Stack: C#, .Net 9.0, ADO.Net, Microsoft SQL Server Studio
 
 https://www.linkedin.com/posts/yash-g-079b0b317_a-desktop-crud-app-repository-installation-activity-7344935434281545728-8xpt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBuvp0BRatfCPaa-JVpggfgl0TLaFDEivI
+![image](https://github.com/user-attachments/assets/74aa812c-2bca-4fc8-968a-c6b994557ada)
+![image](https://github.com/user-attachments/assets/2e039c96-8a36-4fe6-9569-2c6c0dbfe44f)
+
 
 ![image](https://github.com/user-attachments/assets/102b1a3d-b57e-488f-af38-d298a262b498)
 
