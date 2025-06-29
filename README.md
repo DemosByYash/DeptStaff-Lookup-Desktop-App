@@ -1,12 +1,8 @@
 Tech Stack: C#, .Net 9.0, ADO.Net, Microsoft SQL Server Studio
 
-![Uploading image.png…]()
-
-![Uploading image.png…]()
 
 ![image](https://github.com/user-attachments/assets/102b1a3d-b57e-488f-af38-d298a262b498)
 
 ![image](https://github.com/user-attachments/assets/b00f3662-4be4-49d3-91f4-682409f695f4)
 
 ![image](https://github.com/user-attachments/assets/a6e752cf-9988-4aa2-97ed-a464bbf23d17)
-
