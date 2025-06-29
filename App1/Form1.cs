@@ -10,6 +10,8 @@ namespace App1
         public DeptForm()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
+            this.MaximizeBox = false;
 
         }
 
